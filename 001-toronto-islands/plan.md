@@ -63,7 +63,7 @@ Toronto Island Marina bar - Toronto Island Marina (serving only drinks).
 
 **Estimated cost per participant:** $29.57
 
-The quote does not include rentals, amusement-park admission, permits, gratuities, accessibility support, or contingency. Confirm taxes, fees, tour inclusions, and group minimums before approval. Optional activities should be separately funded or removed.
+The quote does not include rentals, permits, gratuities, accessibility support, or contingency. Confirm taxes, fees, tour inclusions, and group minimums before approval. Optional activities should be separately funded or removed.
 
 ## Delivery Plan
 
