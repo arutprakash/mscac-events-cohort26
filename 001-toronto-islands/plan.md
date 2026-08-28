@@ -4,7 +4,7 @@
 
 - **Event:** Toronto Islands Exploration Day
 - **Date:** Friday, September 4, 2026 (19 of 29 votes)
-- **Participants:** 30
+- **Estimated Participants:** 30
 - **Meeting point:** Jack Layton Ferry Terminal
 - **Format:** Ferry trip, guided walking tour, lunch, beach time, and optional recreation
 - **Hours:** 8:30 AM-3:20 PM
