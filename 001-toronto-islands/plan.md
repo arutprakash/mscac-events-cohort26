@@ -49,7 +49,7 @@ Centrevilla food court - inside the Centreville amusement park (you don't need a
 Toronto Island BBQ and Beer Co. - by the Centre Island ferry dock
 Toronto Island Marina bar - Toronto Island Marina (serving only drinks).
 
-## Budget
+## Budget (WIP)
 
 | Item | Quantity | Unit cost | Total |
 |---|---:|---:|---:|
