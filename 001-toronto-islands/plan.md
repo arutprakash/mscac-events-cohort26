@@ -59,9 +59,11 @@ Toronto Island Marina bar - Toronto Island Marina (serving only drinks).
 
 | Food allowance | 30 | $20.00 | $600.00 |
 
-| Rides | 30 | $44.25 | $1327.5 |
+| Amusement Park | 30 | $44.25 | $1327.5 |
 
 | Toronto Island walking tour  | 30 | $50.00 | $1,500.00 | 
+
+| Amusement Park | 30 | $44.25 | $1327.5 |
 
 **Estimated cost per participant:** $9.57
 
