@@ -28,7 +28,7 @@ The event introduces participants to Centre Island and the route toward Ward's I
 
 The ferry times are planning targets. Confirm the timetable and a backup sailing before finalizing the event.
 
-## Rides
+## Centreville Amusement Park and Far Enough Farm
 
 https://webhost.corecashless.com/centreville/reservations/?p=is12t4ym 
 
