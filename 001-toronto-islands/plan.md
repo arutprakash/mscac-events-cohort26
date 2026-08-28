@@ -7,6 +7,7 @@
 **Location:** Toronto Islands, departing from the Jack Layton Ferry Terminal  
 **Group size:** 30 participants  
 **Format:** Guided walking tour with independent island exploration, lunch, and optional recreation  
+**Proposed Date:** 4th September 2026, Friday (19 out of 29 voted this date)
 **Planned duration:** 8:30 AM to approximately 3:20 PM  
 **Primary objective:** Provide a well-organized day trip that combines Toronto Islands history and scenery with time for food, beach access, and optional activities.
 
