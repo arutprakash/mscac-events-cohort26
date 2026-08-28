@@ -33,9 +33,11 @@ The ferry times are planning targets. Confirm the timetable and a backup sailing
 | Item | Quantity | Unit cost | Total |
 |---|---:|---:|---:|
 | Adult round-trip ferry tickets | 30 | $9.57 | $287.10 |
-| Toronto Island walking tour | 30 | $50.00 | $1,500.00 |
 | Food allowance | 30 | $20.00 | $600.00 |
-| **Quoted total** |  |  | **$2,387.10** |
+| **Quoted total** |  |  | **$887.00** |
+
+
+| Toronto Island walking tour (Optinal) | 30 | $50.00 | $1,500.00 | 
 
 **Estimated cost per participant:** $79.57
 
