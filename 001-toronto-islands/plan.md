@@ -28,6 +28,27 @@ The event introduces participants to Centre Island and the route toward Ward's I
 
 The ferry times are planning targets. Confirm the timetable and a backup sailing before finalizing the event.
 
+## Rides
+
+https://webhost.corecashless.com/centreville/reservations/?p=is12t4ym 
+
+$44.25/each (all orders are subject to a processing fee of $3.00 and applicable taxes)
+
+Individuals can enjoy free park and farm admission for unlimited use of 30+ rides & attractions for any signle day.
+
+## Food Options 
+
+Source - https://www.torontoisland.com/restaurants.php 
+
+Island Cafe - directly across the Ward's Island ferry dock
+Rectory Cafe - on Ward's Island close to the fire station
+Carousel Cafe - near Centreville (pretty much a the center of the island)
+Pizza Pizza - at the Center Island ferry dock
+Pizza Pizza - by the pier
+Centrevilla food court - inside the Centreville amusement park (you don't need a ticket to Centreville to eat here)
+Toronto Island BBQ and Beer Co. - by the Centre Island ferry dock
+Toronto Island Marina bar - Toronto Island Marina (serving only drinks).
+
 ## Budget
 
 | Item | Quantity | Unit cost | Total |
