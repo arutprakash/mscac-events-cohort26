@@ -55,13 +55,13 @@ Toronto Island Marina bar - Toronto Island Marina (serving only drinks).
 |---|---:|---:|---:|
 | Adult round-trip ferry tickets | 30 | $9.57 | $287.10 |
 
+(Optinals)
+
 | Food allowance | 30 | $20.00 | $600.00 |
-
 | Rides | 30 | $44.25 | $1327.5 |
+| Toronto Island walking tour  | 30 | $50.00 | $1,500.00 | 
 
-| Toronto Island walking tour (Optinal) | 30 | $50.00 | $1,500.00 | 
-
-**Estimated cost per participant:** $29.57
+**Estimated cost per participant:** $9.57
 
 The quote does not include rentals, permits, gratuities, accessibility support, or contingency. Confirm taxes, fees, tour inclusions, and group minimums before approval. Optional activities should be separately funded or removed.
 
