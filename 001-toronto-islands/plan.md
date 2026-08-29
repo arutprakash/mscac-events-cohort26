@@ -69,11 +69,12 @@ The workbook's meal alternatives are Carousel Cafe ($615.00) and Riviera Lakesid
 
 ## Centreville Amusement Park and Far Enough Farm (Optional - self funded if interested)
 
-https://webhost.corecashless.com/centreville/reservations/?p=is12t4ym 
+Individuals can enjoy free park and farm admission for unlimited use of 30+ rides & attractions for any signle day.
 
 $44.25/each (all orders are subject to a processing fee of $3.00 and applicable taxes)
 
-Individuals can enjoy free park and farm admission for unlimited use of 30+ rides & attractions for any signle day.
+https://webhost.corecashless.com/centreville/reservations/?p=is12t4ym 
+
 
 ## Other Food Options 
 
