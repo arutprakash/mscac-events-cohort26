@@ -27,7 +27,7 @@ The event begins at Ward's Island and follows a westbound walk to Central Island
 | 4:00 PM | Ferry to the mainland |
 | 4:30 PM | Event conclusion |
 
-The ferry times are planning targets. Confirm the timetable and a backup sailing before finalizing the event. Complete the Pizza Pizza pickup before lunch and transport the order to the Central Island meeting point. Confirm that the west dock is the correct return departure point.
+The ferry times are planning targets. Confirm the timetable and a backup sailing before finalizing the event. Complete the Pizza Pizza pickup before lunch and transport the order to the Central Island meeting point. Confirm that the west dock is the correct return departure point and timings.
 
 <h2 style="break-after: avoid; page-break-after: avoid;">Budget</h2>
 
@@ -41,7 +41,7 @@ The ferry times are planning targets. Confirm the timetable and a backup sailing
 
 **Estimated cost per participant:** $21.69
 
-The workbook's meal alternatives are Carousel Cafe ($615.00) and Riviera Lakeside Patio ($820.00). The Pizza Pizza estimate is $333.45 including estimated tax and processing, and includes 2 pepperoni pizzas, 4 spicy BBQ chicken pizzas, 4 Mediterranean vegetarian pizzas, 5 six-packs of drinks, and 30 pops. Confirm final taxes, processing fees, delivery or pickup, and the separate walking-tour cost before approval. The quote does not include rentals, amusement-park admission, permits, gratuities, accessibility support, or contingency.
+The workbook's meal alternatives are Carousel Cafe ($615.00) and Riviera Lakeside Patio ($820.00). The Pizza Pizza estimate is $333.45 including estimated tax and processing, and includes 2 pepperoni pizzas, 4 spicy BBQ chicken pizzas, 4 Mediterranean vegetarian pizzas, 5 six-packs of drinks(30 pops). The quote does not include rentals, amusement-park admission, permits, gratuities, accessibility support, or contingency.
 
 ## Delivery Plan
 
