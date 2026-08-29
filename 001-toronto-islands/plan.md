@@ -1,4 +1,4 @@
-# Toronto Islands Event Proposal (WIP)
+# Toronto Islands Event Proposal
 
 ## Overview
 
