@@ -57,19 +57,20 @@ Menu - https://centreisland.ca/wp-content/uploads/2026/06/front-carousel-menu-20
 | Item | Quantity | Unit cost | Total |
 |---|---:|---:|---:|
 | Adult round-trip ferry tickets | 30 | $9.57 | $287.10 |
+| Ferry tax and processing | 3 bookings | $10.00 | $30.00 |
 | Pizza Pizza meal order | 10 pizzas + 5 drink packs (6 pop each) | See quote | $313.45 |
-| Miscellaneous allowance (Tax, Processing Fees & more) | 1 | $100.00 | $100.00 |
-| **Best estimated total** |  |  | **$700.55** |
+| Pizza Pizza tax and processing | 1 | $20.00 | $20.00 |
+| **Best estimated total** |  |  | **$650.55** |
 
-**Estimated cost per participant:** $23.35
+**Estimated cost per participant:** $21.69
 
-The workbook's meal alternatives are Carousel Cafe ($595.00) and Riviera Lakeside Patio ($800.00). The Pizza Pizza estimate is the workbook's best-estimate selection and includes 2 pepperoni pizzas, 4 spicy BBQ chicken pizzas, 4 Mediterranean vegetarian pizzas, 5 six-packs of drinks, and 30 pops. Confirm taxes, processing fees, delivery or pickup, the $100 miscellaneous allowance, and the separate walking-tour cost before approval. The quote does not include rentals, amusement-park admission, permits, gratuities, accessibility support, or contingency.
+The workbook's meal alternatives are Carousel Cafe ($615.00) and Riviera Lakeside Patio ($820.00). The Pizza Pizza estimate is $333.45 including estimated tax and processing, and includes 2 pepperoni pizzas, 4 spicy BBQ chicken pizzas, 4 Mediterranean vegetarian pizzas, 5 six-packs of drinks, and 30 pops. Confirm final taxes, processing fees, delivery or pickup, and the separate walking-tour cost before approval. The quote does not include rentals, amusement-park admission, permits, gratuities, accessibility support, or contingency.
 
 ## Delivery Plan
 
 1. Confirm the date, rain date, ferry, route, accessibility, and cancellation terms.
 2. Pre-order Pizza Pizza: 2 pepperoni, 4 BBQ chicken, 4 vegetarian pizzas, 5 drink packs, and 30 pops.
-3. Confirm food timing, payment, transport, storage, serving location, and dietary needs.
+3. Confirm food timing, payment, transport, storage, serving location, and dietary needs; budget $333.45 including estimated tax and processing.
 4. Confirm reservations, waivers, and costs for optional activities.
 5. Assign event, finance, route, rear-marshal, and welfare leads.
 6. Send participants the meeting point, schedule, lunch details, contacts, and return plan.
