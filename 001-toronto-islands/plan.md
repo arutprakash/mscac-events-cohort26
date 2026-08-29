@@ -15,7 +15,7 @@ The event begins at Ward's Island and follows a westbound walk to Central Island
 
 | Time | Activity |
 |---|---|
-| 9:30 AM | Meet, check in, distribute tickets, and brief the group |
+| 9:30 AM | Meet at Jack Layton Ferry Terminal, check in, distribute tickets, and brief the group |
 | 10:00 AM | Ferry to Ward's Island |
 | 10:20 AM | Arrive, orient the group, and regroup |
 | 10:30 AM-12:00 PM | Walk west from Ward's Island to Central Island via the boardwalk, Centreville, and gardens |
