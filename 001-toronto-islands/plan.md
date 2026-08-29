@@ -29,7 +29,45 @@ The event begins at Ward's Island and follows a westbound walk to Central Island
 
 The ferry times are planning targets. Confirm the timetable and a backup sailing before finalizing the event. Complete the Pizza Pizza pickup before lunch and transport the order to the Central Island meeting point. Confirm that the west dock is the correct return departure point.
 
-## Centreville Amusement Park and Far Enough Farm (Optional)
+## Budget
+
+| Item | Quantity | Unit cost | Total |
+|---|---:|---:|---:|
+| Adult round-trip ferry tickets | 30 | $9.57 | $287.10 |
+| Ferry tax and processing estimate | 3 bookings | $10.00 | $30.00 |
+| Pizza Pizza meal order | 10 pizzas + 5 drink packs (6 pop each) | See quote | $313.45 |
+| Pizza Pizza tax and processing estimate | 1 | $20.00 | $20.00 |
+| **Best estimated total** |  |  | **$650.55** |
+
+**Estimated cost per participant:** $21.69
+
+The workbook's meal alternatives are Carousel Cafe ($615.00) and Riviera Lakeside Patio ($820.00). The Pizza Pizza estimate is $333.45 including estimated tax and processing, and includes 2 pepperoni pizzas, 4 spicy BBQ chicken pizzas, 4 Mediterranean vegetarian pizzas, 5 six-packs of drinks, and 30 pops. Confirm final taxes, processing fees, delivery or pickup, and the separate walking-tour cost before approval. The quote does not include rentals, amusement-park admission, permits, gratuities, accessibility support, or contingency.
+
+## Delivery Plan
+
+**Before the event**
+
+- Confirm the date, rain date, ferry, route, accessibility, and cancellation terms.
+- Order Pizza Pizza: 2 pepperoni, 4 BBQ chicken, 4 vegetarian pizzas, 5 drink packs, and 30 pops.
+- Confirm food timing, transport, dietary needs, optional-activity costs, staffing, and contingency.
+- Send participants the meeting point, schedule, lunch details, contacts, and return plan.
+- Reconfirm bookings, food, transport, and weather one week before; arrive by 9:15 AM.
+
+**During the event**
+
+- Assign event, finance, route, rear-marshal, and welfare leads.
+- Complete headcounts at every major transfer and leave activities by 3:30 PM for the west dock.
+- Keep outdoor activities optional and use the next ferry if the group misses the planned sailing.
+- Use a buddy system and escalation process for accessibility or safety incidents.
+- Collect all receipts for reimbursement
+
+## Documents planning to be submitted for reimbursement
+
+- Poll conducted on Discord accessible to all corhort
+- Attendance list for the day
+- Receipts bought
+
+## Centreville Amusement Park and Far Enough Farm (Optional - self funded if interested)
 
 https://webhost.corecashless.com/centreville/reservations/?p=is12t4ym 
 
@@ -37,11 +75,9 @@ $44.25/each (all orders are subject to a processing fee of $3.00 and applicable 
 
 Individuals can enjoy free park and farm admission for unlimited use of 30+ rides & attractions for any signle day.
 
-## Food Options 
+## Other Food Options 
 
 Source - https://www.torontoisland.com/restaurants.php 
-
-Menu - https://centreisland.ca/wp-content/uploads/2026/06/front-carousel-menu-2026.pdf 
 
 1. Island Cafe - directly across the Ward's Island ferry dock
 2. Rectory Cafe - on Ward's Island close to the fire station
@@ -51,48 +87,6 @@ Menu - https://centreisland.ca/wp-content/uploads/2026/06/front-carousel-menu-20
 6. Centrevilla food court - inside the Centreville amusement park (you don't need a ticket to Centreville to eat here)
 7. Toronto Island BBQ and Beer Co. - by the Centre Island ferry dock
 8. Toronto Island Marina bar - Toronto Island Marina (serving only drinks).
-
-## Budget
-
-| Item | Quantity | Unit cost | Total |
-|---|---:|---:|---:|
-| Adult round-trip ferry tickets | 30 | $9.57 | $287.10 |
-| Ferry tax and processing | 3 bookings | $10.00 | $30.00 |
-| Pizza Pizza meal order | 10 pizzas + 5 drink packs (6 pop each) | See quote | $313.45 |
-| Pizza Pizza tax and processing | 1 | $20.00 | $20.00 |
-| **Best estimated total** |  |  | **$650.55** |
-
-**Estimated cost per participant:** $21.69
-
-The workbook's meal alternatives are Carousel Cafe ($615.00) and Riviera Lakeside Patio ($820.00). The Pizza Pizza estimate is $333.45 including estimated tax and processing, and includes 2 pepperoni pizzas, 4 spicy BBQ chicken pizzas, 4 Mediterranean vegetarian pizzas, 5 six-packs of drinks, and 30 pops. Confirm final taxes, processing fees, delivery or pickup, and the separate walking-tour cost before approval. The quote does not include rentals, amusement-park admission, permits, gratuities, accessibility support, or contingency.
-
-## Delivery Plan
-
-1. Confirm the date, rain date, ferry, route, accessibility, and cancellation terms.
-2. Pre-order Pizza Pizza: 2 pepperoni, 4 BBQ chicken, 4 vegetarian pizzas, 5 drink packs, and 30 pops.
-3. Confirm food timing, payment, transport, storage, serving location, and dietary needs; budget $333.45 including estimated tax and processing.
-4. Confirm reservations, waivers, and costs for optional activities.
-5. Assign event, finance, route, rear-marshal, and welfare leads.
-6. Send participants the meeting point, schedule, lunch details, contacts, and return plan.
-7. Reconfirm bookings, food, transport, and weather one week before; arrive by 9:15 AM.
-8. Complete headcounts at every major transfer.
-9. Reconcile costs and collect feedback within three business days.
-
-## Key Risks and Controls
-
-- **Weather:** Set a go/no-go threshold; keep outdoor activities optional.
-- **Missed ferry:** Leave by 2:30 PM and confirm the next sailing.
-- **Accessibility:** Confirm the route, ferry, washrooms, tour, and lunch are accessible.
-- **Incident:** Use a buddy system, roster, lead and rear coordinators, and escalation process.
-
-## Delivery Checklist
-
-- Date and rain date
-- Ferry booking
-- Pizza Pizza order and dietary needs
-- Optional activities and costs
-- Accessibility, staffing, emergency, and cancellation plans
-- Contingency reserve
 
 ## References
 
