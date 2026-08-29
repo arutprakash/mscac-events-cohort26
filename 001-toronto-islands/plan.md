@@ -15,7 +15,7 @@ The event begins at Ward's Island and follows a westbound walk to Central Island
 
 | Time | Activity |
 |---|---|
-| 9:30 AM | Meet at Jack Layton Ferry Terminal, check in, distribute tickets, and brief the group |
+| 9:30 AM | Meet, check in, distribute tickets, and brief the group |
 | 10:00 AM | Ferry to Ward's Island |
 | 10:20 AM | Arrive, orient the group, and regroup |
 | 10:30 AM-12:00 PM | Walk west from Ward's Island to Central Island via the boardwalk, Centreville, and gardens |
@@ -27,7 +27,7 @@ The event begins at Ward's Island and follows a westbound walk to Central Island
 
 The ferry times are planning targets. Confirm the timetable and a backup sailing before finalizing the event. Complete the Pizza Pizza pickup before lunch and transport the order to the Central Island meeting point. Confirm that the west dock is the correct return departure point.
 
-## Centreville Amusement Park and Far Enough Farm
+## Centreville Amusement Park and Far Enough Farm (Optional)
 
 https://webhost.corecashless.com/centreville/reservations/?p=is12t4ym 
 
@@ -41,14 +41,14 @@ Source - https://www.torontoisland.com/restaurants.php
 
 Menu - https://centreisland.ca/wp-content/uploads/2026/06/front-carousel-menu-2026.pdf 
 
-Island Cafe - directly across the Ward's Island ferry dock
-Rectory Cafe - on Ward's Island close to the fire station
-Carousel Cafe - near Centreville (pretty much a the center of the island)
-Pizza Pizza - at the Center Island ferry dock
-Pizza Pizza - by the pier
-Centrevilla food court - inside the Centreville amusement park (you don't need a ticket to Centreville to eat here)
-Toronto Island BBQ and Beer Co. - by the Centre Island ferry dock
-Toronto Island Marina bar - Toronto Island Marina (serving only drinks).
+1. Island Cafe - directly across the Ward's Island ferry dock
+2. Rectory Cafe - on Ward's Island close to the fire station
+3. Carousel Cafe - near Centreville (pretty much a the center of the island)
+4. Pizza Pizza - at the Center Island ferry dock
+5. Pizza Pizza - by the pier
+6. Centrevilla food court - inside the Centreville amusement park (you don't need a ticket to Centreville to eat here)
+7. Toronto Island BBQ and Beer Co. - by the Centre Island ferry dock
+8. Toronto Island Marina bar - Toronto Island Marina (serving only drinks).
 
 ## Budget
 
@@ -56,7 +56,7 @@ Toronto Island Marina bar - Toronto Island Marina (serving only drinks).
 |---|---:|---:|---:|
 | Adult round-trip ferry tickets | 30 | $9.57 | $287.10 |
 | Pizza Pizza meal order | 10 pizzas + 5 drink packs (6 pop each) | See quote | $313.45 |
-| Miscellaneous allowance | 1 | $100.00 | $100.00 |
+| Miscellaneous allowance (Tax, Processing Fees & more) | 1 | $100.00 | $100.00 |
 | **Best estimated total** |  |  | **$700.55** |
 
 **Estimated cost per participant:** $23.35
