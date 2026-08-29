@@ -2,6 +2,8 @@
 
 ## Overview
 
+This event will give the new MSCAC 26 batch an informal setting to get to know one another, build team spirit, and develop stronger communication and social skills beyond the classroom. A shared day of walking, conversation, and group activities will help create connections across the cohort, improve collaboration and confidence, and establish a welcoming, supportive community for the year ahead.
+
 - **Event:** Toronto Islands Exploration Day
 - **Date:** Friday, September 4, 2026 
 - **Estimated Participants:** 30 (19 of 29 voted for the 4th on Discord Poll)
@@ -15,7 +17,7 @@ The event begins at Ward's Island and follows a westbound walk to Central Island
 
 | Time | Activity |
 |---|---|
-| 9:30 AM | Meet, check in, distribute tickets, and brief the group |
+| 9:30 AM | Meet at Jack Layton Ferry Terminal, check in, distribute tickets, and brief the group |
 | 10:00 AM | Ferry to Ward's Island |
 | 10:20 AM | Arrive, orient the group, and regroup |
 | 10:30 AM-12:00 PM | Walk west from Ward's Island to Central Island via the boardwalk, Centreville, and gardens |
@@ -65,31 +67,31 @@ The workbook's meal alternatives are Carousel Cafe ($595.00) and Riviera Lakesid
 
 ## Delivery Plan
 
-1. Confirm the date, rain date, ferry sailings, route, accessibility, and cancellation terms.
-2. Pre-order Pizza Pizza: 2 pepperoni pizzas, 4 spicy BBQ chicken pizzas, 4 Mediterranean vegetarian pizzas, 5 six-packs of drinks, and 30 pops.
-3. Confirm pickup or delivery timing, payment, storage, serving location, dietary requirements, and allergy information.
-4. Confirm whether optional activities require reservations, waivers, or extra payment.
-5. Assign an event lead, registration/finance lead, route lead, rear marshal, and welfare lead.
-6. Send participants the meeting point, schedule, lunch details, emergency contact, and return procedure.
-7. Reconfirm bookings, food order, pickup or delivery, and weather one week before the event; arrive by 9:15 AM.
-8. Conduct headcounts at check-in, island arrival, lunch departure, activity departure, and ferry boarding.
-9. Reconcile spending and collect feedback within three business days.
+1. Confirm the date, rain date, ferry, route, accessibility, and cancellation terms.
+2. Pre-order Pizza Pizza: 2 pepperoni, 4 BBQ chicken, 4 vegetarian pizzas, 5 drink packs, and 30 pops.
+3. Confirm food timing, payment, transport, storage, serving location, and dietary needs.
+4. Confirm reservations, waivers, and costs for optional activities.
+5. Assign event, finance, route, rear-marshal, and welfare leads.
+6. Send participants the meeting point, schedule, lunch details, contacts, and return plan.
+7. Reconfirm bookings, food, transport, and weather one week before; arrive by 9:15 AM.
+8. Complete headcounts at every major transfer.
+9. Reconcile costs and collect feedback within three business days.
 
 ## Key Risks and Controls
 
-- **Weather:** Set a go/no-go decision for storms, high winds, extreme heat, and poor air quality. Make outdoor options non-mandatory.
-- **Missed ferry:** Keep the group together, leave the activity area at 2:30 PM, and identify the next sailing.
-- **Accessibility:** Confirm the route, ferry, washrooms, tour, and lunch option can support participant needs before booking.
-- **Separation or incident:** Use a buddy system, current roster, lead and rear coordinators, and an emergency escalation process.
+- **Weather:** Set a go/no-go threshold; keep outdoor activities optional.
+- **Missed ferry:** Leave by 2:30 PM and confirm the next sailing.
+- **Accessibility:** Confirm the route, ferry, washrooms, tour, and lunch are accessible.
+- **Incident:** Use a buddy system, roster, lead and rear coordinators, and escalation process.
 
 ## Delivery Checklist
 
-- Date and rain date confirmed
-- Ferry bookings 
-- Pizza Pizza order, pickup or delivery, and dietary requirements
-- Optional activities and extra costs 
-- Accessibility, staffing, emergency, and cancellation plans 
-- Contingency reserve added to the final budget
+- Date and rain date
+- Ferry booking
+- Pizza Pizza order and dietary needs
+- Optional activities and costs
+- Accessibility, staffing, emergency, and cancellation plans
+- Contingency reserve
 
 ## References
 
