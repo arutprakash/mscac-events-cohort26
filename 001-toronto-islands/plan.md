@@ -40,6 +40,8 @@ Individuals can enjoy free park and farm admission for unlimited use of 30+ ride
 
 Source - https://www.torontoisland.com/restaurants.php 
 
+Menu - https://centreisland.ca/wp-content/uploads/2026/06/front-carousel-menu-2026.pdf 
+
 Island Cafe - directly across the Ward's Island ferry dock
 Rectory Cafe - on Ward's Island close to the fire station
 Carousel Cafe - near Centreville (pretty much a the center of the island)
