@@ -1,3 +1,27 @@
-# Friday Game Night Proposal
+# MScAC Game Nights Proposal
 
-The game nights are a relaxed and engaging Friday Night Event designed to bring together seniors and community members for a fun evening of connection, teamwork, and friendly competition. The goal is to create a welcoming space where people can enjoy classic and strategic games, build stronger relationships, and share memorable experiences in a positive, inclusive setting. 
+## Overview
+Building on the success of previous game nights, this proposal aims to continue organizing weekly Friday game nights for MScAC students. These gatherings provide a low-pressure environment to unwind between assignments and deadlines, share laughs, strengthen connections within the cohort, and connect with 2nd year students to learn from their experiences.
+
+Schedule Proposed / Budgeted for - 4 Fridays - 11th Sep, 18th Sep, 25th Sep, 2nd Oct 
+
+## Benefits
+- **Students**: Meet peers outside coursework, connecting with the cohort in an infromal setting, taking breaks between assignments, learning from the 2nd year students
+- **MScAC**: Strengthens community, supports wellbeing, facilitates cross-cohort engagement
+
+## Logistics
+
+| Item | Details |
+|------|---------|
+| **Schedule** | 4 Fridays - 11th Sep, 18th Sep, 25th Sep, 2nd Oct  |
+| **Room Capacity** | 20 people (Cohort26 + Cohort25 Regulars) |
+| **Storage** | Use existing cabinet |
+| **Board Games** | Use existing Games |
+
+## Budget
+
+| Item | Cost | Notes |
+|------|------|-------|
+| Board Games | $0 | Will be using Existing Games |
+| Snacks / Pizza | $819.84 | $204.96/session × 4 sessions (refer quote) |
+| **Total** | **$820** | 4 Friday Nights | 
