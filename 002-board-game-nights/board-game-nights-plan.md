@@ -1,2 +1,3 @@
 # Friday Game Night Proposal
 
+The game nights are a relaxed and engaging Friday Night Event designed to bring together seniors and community members for a fun evening of connection, teamwork, and friendly competition. The goal is to create a welcoming space where people can enjoy classic and strategic games, build stronger relationships, and share memorable experiences in a positive, inclusive setting. 
