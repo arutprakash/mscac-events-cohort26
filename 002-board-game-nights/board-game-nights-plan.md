@@ -27,3 +27,13 @@ Quoted Cosmic pizza the usual game night vendor for Cohort25
 | Board Games | $0 | Will be using Existing Games |
 | Snacks / Pizza | $819.84 | $204.96/session × 4 sessions (refer quote) |
 | **Total** | **$820** | 4 Friday Nights | 
+
+## Attendance & Reimbursement Documentation
+
+**Weekly Attendance Tracking:**
+- [Attendance Record](games-night-attendance.docx) — Attendance will be taken at each venue to track participation
+
+**Planned Documents submitting for Reimbursement:**
+- **Discord Invite Screenshots**: Screenshot of weekly Discord invitations sent to both Cohort25 and Cohort26
+- **Food Receipts**: Receipts for all food and pizza orders from Cosmic Pizza
+- **Attendance Log**: Weekly attendance records documenting attendees at each session 
