@@ -15,3 +15,4 @@ Building on the success of previous game nights, this proposal continues weekly 
 
 - [Detailed event plan](002-board-game-nights/board-game-nights-plan.md)
 - [Quote and budget details](002-board-game-nights/board-game-nights-quote.xlsx)
+- [Weekly attendance tracking](002-board-game-nights/games-night-attendance.docx)
