@@ -30,9 +30,6 @@ Quoted Cosmic pizza the usual game night vendor for Cohort25
 
 ## Attendance & Reimbursement Documentation
 
-**Weekly Attendance Tracking:**
-- [Attendance Record](games-night-attendance.docx) — Attendance will be taken at each venue to track participation
-
 **Planned Documents submitting for Reimbursement:**
 - **Discord Invite Screenshots**: Screenshot of weekly Discord invitations sent to both Cohort25 and Cohort26
 - **Food Receipts**: Receipts for all food and pizza orders from Cosmic Pizza
