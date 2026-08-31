@@ -20,6 +20,8 @@ Schedule Proposed / Budgeted for - 4 Fridays - 11th Sep, 18th Sep, 25th Sep, 2nd
 
 ## Budget
 
+Quoted Cosmic pizza the usual game night vendor for Cohort25
+
 | Item | Cost | Notes |
 |------|------|-------|
 | Board Games | $0 | Will be using Existing Games |
