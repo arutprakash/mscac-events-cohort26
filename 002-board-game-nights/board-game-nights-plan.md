@@ -3,7 +3,9 @@
 ## Overview
 Building on the success of previous game nights, this proposal aims to continue organizing weekly Friday game nights for MScAC students. These gatherings provide a low-pressure environment to unwind between assignments and deadlines, share laughs, strengthen connections within the cohort, and connect with 2nd year students to learn from their experiences.
 
-Schedule Proposed / Budgeted for - 4 Fridays - 11th Sep, 18th Sep, 25th Sep, 2nd Oct 
+Schedule proposed and budgeted for four Friday events at a time on a rolling basis: 11th Sep, 18th Sep, 25th Sep, and 2nd Oct, from 6:00 PM to 9:00 PM. The frequency can be adjusted later based on attendance and participant feedback.
+
+Invitations will be sent to both Cohort 25 and Cohort 26.
 
 ## Benefits
 - **Students**: Meet peers outside coursework, connecting with the cohort in an infromal setting, taking breaks between assignments, learning from the 2nd year students
@@ -13,14 +15,19 @@ Schedule Proposed / Budgeted for - 4 Fridays - 11th Sep, 18th Sep, 25th Sep, 2nd
 
 | Item | Details |
 |------|---------|
-| **Schedule** | 4 Fridays - 11th Sep, 18th Sep, 25th Sep, 2nd Oct  |
+| **Schedule** | Four Friday events proposed on a rolling basis |
+| **Frequency** | Can be adjusted later based on attendance and continued participant feedback |
+| **Invitations** | Sent to both Cohort 25 and Cohort 26 |
+| **Time** | 6:00 PM-9:00 PM |
 | **Room Capacity** | 20 people (Cohort26 + Cohort25 Regulars) |
 | **Storage** | Use existing cabinet |
 | **Board Games** | Use existing Games |
 
 ## Budget
 
-Quoted Cosmic pizza the usual game night vendor for Cohort25
+Best quote and usual vendor for cohort25 Cosmic pizza 
+
+**Requested budget:** $850 for 4 nights
 
 | Item | Cost | Notes |
 |------|------|-------|
