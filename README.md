@@ -11,7 +11,7 @@ Planned for Friday, September 4, 2026, this full-day event will take 30 particip
 
 ### 002 Friday Game Nights - September 
 
-Building on the success of previous game nights, this proposal continues weekly Friday game nights for MScAC students to unwind, strengthen community connections, and engage with 2nd year students. Scheduled for 4 Fridays (Sep 11th, 18th, 25th, and Oct 2nd), these low-pressure gatherings provide a space to take breaks, share laughs, and learn from more experienced cohort members. Estimated budget of $820 covers snacks and pizza for all sessions.
+Building on the success of previous game nights, this proposal continues Friday evening game nights for MScAC students from 6:00 PM to 9:00 PM. Events are proposed in rolling groups of four, beginning on Sep 11th, 18th, 25th, and Oct 2nd, with the frequency adjustable later based on attendance and participant feedback. Invitations will be sent to both Cohort 25 and Cohort 26. The requested budget is $850 for four nights, with the current snacks and pizza estimate at $820.
 
 - [Detailed event plan](002-board-game-nights/board-game-nights-plan.md)
 - [Quote and budget details](002-board-game-nights/board-game-nights-quote.xlsx)
