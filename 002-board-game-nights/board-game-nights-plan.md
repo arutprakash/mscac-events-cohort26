@@ -39,5 +39,5 @@ Best quote and usual vendor for cohort25 Cosmic pizza
 
 **Planned Documents submitting for Reimbursement:**
 - **Discord Invite Screenshots**: Screenshot of weekly Discord invitations sent to both Cohort25 and Cohort26
-- **Food Receipts**: Receipts for all food and pizza orders from Cosmic Pizza
+- **Food Receipts**: Receipts for all food
 - **Attendance Log**: Weekly attendance records documenting attendees at each session 
