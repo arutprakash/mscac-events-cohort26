@@ -5,7 +5,7 @@
 | Field | Value |
 |------|-------|
 | **Date** | **11 September 2026** |
-| **Expected attendance** | **20 people** |
+| **Expected attendance** | **20 people** - Cohort25+26 |
 | **Board games** | $0 - Use existing games |
 | **Snacks / Pizza** | **$150** - refer quote |
 | **Total Proposed budget** | **$150** |
