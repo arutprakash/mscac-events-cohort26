@@ -40,8 +40,8 @@ Best quote and usual vendor for Cohort 25: Cosmic Pizza.
 | Item | Cost | Notes |
 |------|------|-------|
 | Board Games | $0 | Will be using Existing Games |
-| Snacks / Pizza | Included in proposed budget | Refer to quote |
-| **Total** | **As listed above** | One board game night |
+| Snacks / Pizza | $150 | Refer to quote |
+| **Total** | **$150** | One board game night |
 
 ## Attendance & Reimbursement Documentation
 
@@ -49,3 +49,5 @@ Best quote and usual vendor for Cohort 25: Cosmic Pizza.
 - **Discord Invite Screenshots**: Screenshot of weekly Discord invitations sent to both Cohort25 and Cohort26
 - **Food Receipts**: Receipts for all food
 - **Attendance Log**: Attendance record documenting attendees at the event
+- **Payment Method**: Payment details 
+- **Proposal Document**: This document
