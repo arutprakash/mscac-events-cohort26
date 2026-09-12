@@ -6,10 +6,9 @@
 |------|-------|
 | **Date** | **11 September 2026** |
 | **Expected attendance** | **20 people** |
-| **Proposed budget** | **$150** |
 | **Board games** | $0 - Use existing games |
-| **Snacks / Pizza** | Included in proposed budget |
-| **Total** | **As listed above** |
+| **Snacks / Pizza** | **$150** - refer quote |
+| **Total Proposed budget** | **$150** |
 
 ## Overview
 Building on the success of previous game nights, this proposal aims to organize a board game night for MScAC students. This gathering provides a low-pressure environment to unwind between assignments and deadlines, share laughs, strengthen connections within the cohort, and connect with 2nd year students to learn from their experiences.
