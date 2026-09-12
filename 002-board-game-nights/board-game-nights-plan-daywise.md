@@ -1,12 +1,15 @@
 # MScAC Board Game Night Proposal
 
-## Event Details
+## Event Details & Budget
 
 | Field | Value |
 |------|-------|
 | **Date** | **11 September 2026** |
 | **Expected attendance** | **20 people** |
 | **Proposed budget** | **$150** |
+| **Board games** | $0 - Use existing games |
+| **Snacks / Pizza** | Included in proposed budget |
+| **Total** | **As listed above** |
 
 ## Overview
 Building on the success of previous game nights, this proposal aims to organize a board game night for MScAC students. This gathering provides a low-pressure environment to unwind between assignments and deadlines, share laughs, strengthen connections within the cohort, and connect with 2nd year students to learn from their experiences.
@@ -31,17 +34,9 @@ Invitations will be sent to both Cohort 25 and Cohort 26.
 | **Storage** | Use existing cabinet |
 | **Board Games** | Use existing Games |
 
-## Budget
-
 Best quote and usual vendor for Cohort 25: Cosmic Pizza.
 
 **Requested budget:** As listed above
-
-| Item | Cost | Notes |
-|------|------|-------|
-| Board Games | $0 | Will be using Existing Games |
-| Snacks / Pizza | $150 | Refer to quote |
-| **Total** | **$150** | One board game night |
 
 ## Attendance & Reimbursement Documentation
 
